@@ -1,10 +1,14 @@
 var a // declaration
-a = 5 // initialization
+a = 1 // initialization
 
 let b // declaration
-b = 10 // initialization
+b = 2 // initialization
 
-var c = 15 // both
-let d = 15 // both
+var c = 3 // both
+let d = 4 // both
 
-// const e // SyntaxError, can't declare const without initializing
+//const e // SyntaxError, you have to initialize and declare at the same time
+const f = 5
+
+
+console.log(a, b, c, d, f)

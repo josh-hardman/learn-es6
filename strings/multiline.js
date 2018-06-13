@@ -1,5 +1,4 @@
-var greeting = 'Yo \
-World'
+var taunt = "It's just a flesh wound"
 
 var greeting2 = 'Yo ' + 'World'
 

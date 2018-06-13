@@ -1,10 +1,10 @@
 // ES5
 console.log(a) // undefined
-var a = 5
+var a = 1
 
 // ES6
 console.log(a) // ReferenceError: a is not defined
-let a = 5
-and
-console.log(a) // ReferenceError: a is not defined
-const a = 5
+let b = 2
+
+console.log(c) // ReferenceError: a is not defined
+const c = 3
