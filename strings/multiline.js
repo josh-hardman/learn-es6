@@ -1,9 +1,13 @@
-var taunt = "It's just a flesh wound"
+var dialogue =
+  'His groove! \n' +
+  'The rhythm in which he lives his life! \n' +
+  'His pattern of behavior! \n' +
+  'I threw it off! \n' +
+  'And the emperor had me thrown out the window!'
 
-var greeting2 = 'Yo ' + 'World'
+dialogue
 
-const greeting3 = `this is the first line
-This is the second
-And the third`
+const starTrek = `Space: the final frontier. 
+These are the voyages of the starship Enterprise.`
 
-greeting3
+starTrek
