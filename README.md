@@ -13,18 +13,18 @@ Learn Modern JS Essentials
 * cmd space p (Quokka js start on current file)
 
 ## Course overview
-- [] ES6 / ES2017 / ECMAScript
+- [ ] ES6 / ES2017 / ECMAScript
 
 ## ES5.1
-- [] Array Helpers
-    - [] forEach
-    - [] map
-    - [] filter
-    - [] find
-    - [] every
-    - [] some
-    - [] reduce
-    - [] Includes
+- [ ] Array Helpers
+    - [ ] forEach
+    - [ ] map
+    - [ ] filter
+    - [ ] find
+    - [ ] every
+    - [ ] some
+    - [ ] reduce
+    - [ ] Includes
 
 ## Key ES6 features
 - [x] Let and Const
@@ -35,62 +35,62 @@ Learn Modern JS Essentials
 - [x] Template Literals
     - [x] String Interpolation
     - [x] Multi-line
-    - [] Tagged templates
-- [] Destructuring  
-    - [] Arrays
-    - [] Objects  https://wesbos.com/destructuring-objects/
-    - [] Nested objects
-    - [] Default values (beware of nulls)
-    - [] Renaming destructured values
-- [] New built in methods
-    - [] Object.assign
-    - [] .find
-    - [] .findIndex
-    - [] .repeat
-    - [] .startsWith
-    - [] .endsWith
-    - [] .includes
-    - [] .isNaN
-- [] Enhanced Object Literals
-    - [] Property Shorthand {a,b}
-    - [] Computed Property names - [a+b]: c
-- [] Arrow Functions
-    - [] Implicit return
-    - [] Remove parens single param
-    - [] Concise syntax
-    - [] this keyword
-    - [] Always anonymous functions https://wesbos.com/arrow-functions/
-- [] Modules
-    - [] Import
-    - [] Export
-    - [] Wildcard
-- [] Classes
-    - [] Class Definition 
-    - [] Class 'Inheritance'
-    - [] Base class access with super
-    - [] Static class members
-- [] Promises
-    - [] Promise
-    - [] Promise.all
-- [] Bonus Round
-    - [] Generators
-    - [] Iterators
-        - [] For of
-        - [] Generators
-        - [] Async Generators
-        - [] Calling Next
-    - [] Number Formatting
-        - [] Number
-        - [] Currency
-        - [] Date/Time
+    - [ ] Tagged templates
+- [ ] Destructuring  
+    - [ ] Arrays
+    - [ ] Objects  https://wesbos.com/destructuring-objects/
+    - [ ] Nested objects
+    - [ ] Default values (beware of nulls)
+    - [ ] Renaming destructured values
+- [ ] New built in methods
+    - [ ] Object.assign
+    - [ ] .find
+    - [ ] .findIndex
+    - [ ] .repeat
+    - [ ] .startsWith
+    - [ ] .endsWith
+    - [ ] .includes
+    - [ ] .isNaN
+- [ ] Enhanced Object Literals
+    - [ ] Property Shorthand {a,b}
+    - [ ] Computed Property names - [a+b]: c
+- [ ] Arrow Functions
+    - [ ] Implicit return
+    - [ ] Remove parens single param
+    - [ ] Concise syntax
+    - [ ] this keyword
+    - [ ] Always anonymous functions https://wesbos.com/arrow-functions/
+- [ ] Modules
+    - [ ] Import
+    - [ ] Export
+    - [ ] Wildcard
+- [ ] Classes
+    - [ ] Class Definition 
+    - [ ] Class 'Inheritance'
+    - [ ] Base class access with super
+    - [ ] Static class members
+- [ ] Promises
+    - [ ] Promise
+    - [ ] Promise.all
+- [ ] Bonus Round
+    - [ ] Generators
+    - [ ] Iterators
+        - [ ] For of
+        - [ ] Generators
+        - [ ] Async Generators
+        - [ ] Calling Next
+    - [ ] Number Formatting
+        - [ ] Number
+        - [ ] Currency
+        - [ ] Date/Time
 
 ## Key ES6 features
-- [] Async
-    - [] Promises
-    - [] Aync Await (ES7)
-    - [] Fetch
+- [ ] Async
+    - [ ] Promises
+    - [ ] Aync Await (ES7)
+    - [ ] Fetch
 
 ## Upcoming proposals you should be using now
-- [] Async / Await !!
-- [] Rest/Spread Properties for ECMAScript ! Draft	Stage 3 draft.
-- [] Observables
+- [ ] Async / Await !!
+- [ ] Rest/Spread Properties for ECMAScript ! Draft	Stage 3 draft.
+- [ ] Observables
