@@ -87,7 +87,6 @@ Learn Modern JS Essentials
 ## Key ES6 features
 - [ ] Async
     - [ ] Promises
-    - [ ] Aync Await (ES7)
     - [ ] Fetch
 
 ## Upcoming proposals you should be using now
