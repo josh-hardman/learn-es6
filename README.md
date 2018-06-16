@@ -83,13 +83,11 @@ Learn Modern JS Essentials
         - [ ] Number
         - [ ] Currency
         - [ ] Date/Time
-
-## Key ES6 features
 - [ ] Async
     - [ ] Promises
     - [ ] Fetch
 
-## Upcoming proposals you should be using now
+## Upcoming stage features you should be using now
 - [ ] Async / Await !!
-- [ ] Rest/Spread Properties for ECMAScript ! Draft	Stage 3 draft.
+- [ ] Rest/Spread Properties for ECMAScript ! Draft	Stage 3.
 - [ ] Observables
