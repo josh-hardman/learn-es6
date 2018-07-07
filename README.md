@@ -13,7 +13,7 @@ Learn Modern JS Essentials
 * cmd space p (Quokka js start on current file)
 
 ## Course overview
-- [ ] ES6 / ES2017 / ECMAScript
+- [x] ES6 / ES2017 / ECMAScript https://realtimeboard.com/app/board/o9J_kz8Cdw4=/
 
 ## ES5.1
 - [ ] Array Helpers
@@ -24,7 +24,6 @@ Learn Modern JS Essentials
     - [ ] every
     - [ ] some
     - [ ] reduce
-    - [ ] Includes
 
 ## Key ES6 features
 - [x] Let and Const
